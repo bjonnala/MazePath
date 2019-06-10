@@ -24,6 +24,27 @@ namespace MazePath
             visited.Add(start);
             //queue.Enqueue(start);
             stack.Push(start);
+            /*Neighbors are at 
+    top: (x,y+1)
+    bottom: (x+1,y)
+	right: (x-1,y)
+	left: (x,y-1)
+	
+	// BFS uses Queue and DFS uses Stack
+	
+	// Find the neighbors at a point 
+	
+	// Have a helper function which takes in array2D, int X, int Y and returns if the move is safe or not
+	
+	// areas which are visited will be added to this list
+	
+	// Before adding a point to queue, add it to the visited list. (mark it as visited)
+	
+	// Each time when a point is dequeued, all the safe neighbors are added.
+	
+	// keep going till we have items in queue, and return once you reach the destination point 
+	
+	// Path to be taken to the destination will be the list of visited points */
 
 
             while (stack.Count > 0) // queue.Count
