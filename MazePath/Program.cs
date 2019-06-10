@@ -20,12 +20,11 @@ namespace MazePath
             List<Point> pathtraversed = new List<Point>();
             Point end = new Point(3, 0);
 
-            if (IsSafe(array2D, start, rowlength, collength))
-            {
-                visited.Add(start);
-                //queue.Enqueue(start);
-                stack.Push(start);
-            }
+
+            visited.Add(start);
+            //queue.Enqueue(start);
+            stack.Push(start);
+
 
             while (stack.Count > 0) // queue.Count
             {
