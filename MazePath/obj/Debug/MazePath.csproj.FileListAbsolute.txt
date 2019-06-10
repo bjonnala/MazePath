@@ -1,0 +1,7 @@
+C:\Users\rzj\source\repos\MazePath\MazePath\bin\Debug\MazePath.exe.config
+C:\Users\rzj\source\repos\MazePath\MazePath\bin\Debug\MazePath.exe
+C:\Users\rzj\source\repos\MazePath\MazePath\bin\Debug\MazePath.pdb
+C:\Users\rzj\source\repos\MazePath\MazePath\obj\Debug\MazePath.csprojAssemblyReference.cache
+C:\Users\rzj\source\repos\MazePath\MazePath\obj\Debug\MazePath.csproj.CoreCompileInputs.cache
+C:\Users\rzj\source\repos\MazePath\MazePath\obj\Debug\MazePath.exe
+C:\Users\rzj\source\repos\MazePath\MazePath\obj\Debug\MazePath.pdb
